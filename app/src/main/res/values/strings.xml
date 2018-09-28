@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Plugdemo</string>
+    <string name="sd_card">sd_card</string>
+</resources>
